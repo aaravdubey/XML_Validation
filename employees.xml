@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee id="113786">
+        <personalInformation>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+            <dateOfBirth>1990-05-15</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Software Engineer</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>john.doe@gmail.com</email>
+            <phoneNumber>9783478388</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="113772">
+        <personalInformation>
+            <firstName>Jane</firstName>
+            <lastName>Smith</lastName>
+            <dateOfBirth>1988-12-03</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>jane.smith@gmail.com</email>
+            <phoneNumber>9783487494</phoneNumber>
+        </contactInformation>
+    </employee>
+
+    <employee id="113799">
+        <personalInformation>
+            <firstName>Michael</firstName>
+            <lastName>Johnson</lastName>
+            <dateOfBirth>1992-08-22</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Financial Analyst</position>
+            <salary>70000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>michael.johnson@gmail.com</email>
+            <phoneNumber>7963468785</phoneNumber>
+        </contactInformation>
+    </employee>
+</employees>
